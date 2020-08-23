@@ -22,8 +22,8 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Provider</module>
         <module>Consummer</module>
+        <module>Producer</module>
     </modules>
 
 
