@@ -1,0 +1,10 @@
+# 端口
+server:
+  port: 7999
+
+spring:
+  application:
+    name: cloud-order
+  cloud:
+    zookeeper:
+      connect-string: 127.0.0.1
