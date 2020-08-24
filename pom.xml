@@ -24,6 +24,7 @@
     <modules>
         <module>Consummer</module>
         <module>Producer</module>
+        <module>SystemService</module>
     </modules>
 
 
