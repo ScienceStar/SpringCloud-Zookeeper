@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Producer" />
+        <module name="SystemService" />
         <module name="Consummer" />
       </profile>
     </annotationProcessing>
@@ -14,6 +15,7 @@
       <module name="Consummer" target="1.8" />
       <module name="Producer" target="1.8" />
       <module name="SpringCloud-Zookeeper" target="1.8" />
+      <module name="SystemService" target="1.8" />
       <module name="Zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -21,6 +23,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Consummer" options="-parameters" />
       <module name="Producer" options="-parameters" />
+      <module name="SystemService" options="-parameters" />
       <module name="Zookeeper" options="-parameters" />
     </option>
   </component>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Consummer/Consummer.iml" filepath="$PROJECT_DIR$/Consummer/Consummer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Producer/Producer.iml" filepath="$PROJECT_DIR$/Producer/Producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringCloud-Zookeeper.iml" filepath="$PROJECT_DIR$/SpringCloud-Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SystemService/SystemService.iml" filepath="$PROJECT_DIR$/SystemService/SystemService.iml" />
     </modules>
   </component>
 </project>
