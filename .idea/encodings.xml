@@ -3,6 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Consummer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Producer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/Zookeeper/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SystemService/src/main/java" charset="UTF-8" />
   </component>
 </project>
