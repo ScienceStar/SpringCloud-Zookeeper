@@ -13,6 +13,8 @@ public class TestSing {
     @Test
     public void getSingleton(){
         Singleton singleton = Singleton.getInstance();
-        System.out.println(singleton);
+        singleton.setUserName("jack");
+        singleton.setUserAge(21);
+        System.out.println(singleton.getUserName()+"   "+singleton.getUserAge());
     }
 }

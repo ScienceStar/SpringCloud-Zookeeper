@@ -9,7 +9,10 @@ package com.bean;
  **/
 public class Singleton {
 
-    private static Singleton singleton =null;
+    private String userName;
+    private Integer userAge;
+
+    private static Singleton singleton = null;
 
     public Singleton(){
 
@@ -20,5 +23,21 @@ public class Singleton {
             singleton = new Singleton();
         }
         return singleton;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public Integer getUserAge() {
+        return userAge;
+    }
+
+    public void setUserAge(Integer userAge) {
+        this.userAge = userAge;
     }
 }
